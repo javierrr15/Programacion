@@ -1,0 +1,8 @@
+D:\Programación\Proyectos\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+D:\Programación\Proyectos\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+D:\Programación\Proyectos\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+D:\Programación\Proyectos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+D:\Programación\Proyectos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.SuggestedBindingRedirects.cache
+D:\Programación\Proyectos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+D:\Programación\Proyectos\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+D:\Programación\Proyectos\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

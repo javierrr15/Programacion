@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea 3.1", "Tarea 3.1\Tarea 3.1.csproj", "{3C804E39-1964-42FC-860D-7AAB805B4F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea 3.2", "Tarea 3.2\Tarea 3.2.csproj", "{B4944593-05E9-464F-A852-1F77E6F0F608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea 3.3", "Tarea 3.3\Tarea 3.3.csproj", "{AA27CF5D-B0DA-4095-A7B2-399A320E6227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C804E39-1964-42FC-860D-7AAB805B4F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C804E39-1964-42FC-860D-7AAB805B4F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C804E39-1964-42FC-860D-7AAB805B4F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C804E39-1964-42FC-860D-7AAB805B4F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4944593-05E9-464F-A852-1F77E6F0F608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4944593-05E9-464F-A852-1F77E6F0F608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4944593-05E9-464F-A852-1F77E6F0F608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4944593-05E9-464F-A852-1F77E6F0F608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA27CF5D-B0DA-4095-A7B2-399A320E6227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA27CF5D-B0DA-4095-A7B2-399A320E6227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA27CF5D-B0DA-4095-A7B2-399A320E6227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA27CF5D-B0DA-4095-A7B2-399A320E6227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4372DA-8B5C-4020-957E-CF682BCC0271}
+	EndGlobalSection
+EndGlobal

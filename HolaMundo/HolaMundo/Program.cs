@@ -10,7 +10,7 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Javier Ignacio Montecinos Cordero"); 
+            Console.WriteLine("Hola Mundo"); 
         }
     }
 }

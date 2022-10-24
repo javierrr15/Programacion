@@ -107,7 +107,7 @@ namespace Tarea_7
     
         public void ConsultaSaldo()
         {
-            Console.WriteLine("Su saldo es {0}",saldo);
+            Console.WriteLine("Su saldo es {0}",saldo); // asd
         }
         public override string ToString()
         {

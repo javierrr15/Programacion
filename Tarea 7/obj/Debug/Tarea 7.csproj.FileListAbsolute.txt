@@ -1,0 +1,8 @@
+D:\Programación\Proyectos\Tarea 7\bin\Debug\Tarea 7.exe.config
+D:\Programación\Proyectos\Tarea 7\bin\Debug\Tarea 7.exe
+D:\Programación\Proyectos\Tarea 7\bin\Debug\Tarea 7.pdb
+D:\Programación\Proyectos\Tarea 7\obj\Debug\Tarea 7.csproj.AssemblyReference.cache
+D:\Programación\Proyectos\Tarea 7\obj\Debug\Tarea 7.csproj.SuggestedBindingRedirects.cache
+D:\Programación\Proyectos\Tarea 7\obj\Debug\Tarea 7.csproj.CoreCompileInputs.cache
+D:\Programación\Proyectos\Tarea 7\obj\Debug\Tarea 7.exe
+D:\Programación\Proyectos\Tarea 7\obj\Debug\Tarea 7.pdb

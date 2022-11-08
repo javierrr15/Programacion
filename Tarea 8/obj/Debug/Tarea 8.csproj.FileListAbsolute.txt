@@ -1,0 +1,8 @@
+D:\Programación\Proyectos\Tarea 8\bin\Debug\Tarea 8.exe.config
+D:\Programación\Proyectos\Tarea 8\bin\Debug\Tarea 8.exe
+D:\Programación\Proyectos\Tarea 8\bin\Debug\Tarea 8.pdb
+D:\Programación\Proyectos\Tarea 8\obj\Debug\Tarea 8.csproj.AssemblyReference.cache
+D:\Programación\Proyectos\Tarea 8\obj\Debug\Tarea 8.csproj.SuggestedBindingRedirects.cache
+D:\Programación\Proyectos\Tarea 8\obj\Debug\Tarea 8.csproj.CoreCompileInputs.cache
+D:\Programación\Proyectos\Tarea 8\obj\Debug\Tarea 8.exe
+D:\Programación\Proyectos\Tarea 8\obj\Debug\Tarea 8.pdb

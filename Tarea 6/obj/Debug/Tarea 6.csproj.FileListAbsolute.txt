@@ -1,8 +1,0 @@
-D:\Programación\Proyectos\Tarea 6\bin\Debug\Tarea 6.exe.config
-D:\Programación\Proyectos\Tarea 6\bin\Debug\Tarea 6.exe
-D:\Programación\Proyectos\Tarea 6\bin\Debug\Tarea 6.pdb
-D:\Programación\Proyectos\Tarea 6\obj\Debug\Tarea 6.csproj.AssemblyReference.cache
-D:\Programación\Proyectos\Tarea 6\obj\Debug\Tarea 6.csproj.SuggestedBindingRedirects.cache
-D:\Programación\Proyectos\Tarea 6\obj\Debug\Tarea 6.csproj.CoreCompileInputs.cache
-D:\Programación\Proyectos\Tarea 6\obj\Debug\Tarea 6.exe
-D:\Programación\Proyectos\Tarea 6\obj\Debug\Tarea 6.pdb
